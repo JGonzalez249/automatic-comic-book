@@ -8,3 +8,4 @@
 <p>In terms of methods, I tried various methods to get stable diffusion to work, including using inpainting, merging models, and even using other methods like Midjourney and Dreamstudio to test prompts and see what other styles work. However, in the end, I chose to research a little more into prompt engineering in order to have the AI look a specific parts of both positive and negative prompts. While it helps to have the AI focus of what I want from the prompts, the CFG scale and steps vastly change what is generated. However, even with these random generations, my character stays somewhat consistent and recognizable.</p>
 
 <h2>Examples</h2>
+<a href=\"https://colab.research.google.com/github/JGonzalez249/automatic-comic-book/blob/master/nightly/cyberpunk_anime_diffusion_webui_colab.ipynb\" target=\"_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt=\"Open In Colab\"/></a>
