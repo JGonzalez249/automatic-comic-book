@@ -19,6 +19,6 @@
 
 <h2>Example</h2>
 
-[![Automatic Comic Generation, Stable Diffusion](https://res.cloudinary.com/marcomontalbano/image/upload/v1680133812/video_to_markdown/images/youtube--yfPbuoxZWjY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/yfPbuoxZWjY "Automatic Comic Generation, Stable Diffusion")
+[![Automatic Comic Generation, Stable Diffusion](https://res.cloudinary.com/marcomontalbano/image/upload/v1680134246/video_to_markdown/images/youtube--yfPbuoxZWjY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/yfPbuoxZWjY "Automatic Comic Generation, Stable Diffusion")
 
 
