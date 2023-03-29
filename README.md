@@ -15,7 +15,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/yfPbuoxZWjY)
 
-    (an anime girl in dgs illustration style, long black hair and red highlights, hair bangs, blue eyes, (wearing open black coat), body suit), zoomed out, beside random 1man with suit, cyberpunk city, raining, neon, ((text bubbles)), 8k, highly detailed, clarity, intense, (((comic book))), ((digital painting)), darker color scheme
-    Negative prompt: lowres, ((bad anatomy)), ((bad hands)), scary, creepy, evil, disfigured, missing limbs, gross, missing fingers, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts)), short hair, ponytail, blue hair
-    Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 471302324, Face restoration: CodeFormer, Size: 704x704, Model hash: a8f7dcece7, Model: Cyberpunk-Anime-Diffusion
+        (an anime girl in dgs illustration style, long black hair and red highlights, hair bangs, blue eyes, (wearing open black coat), body suit), zoomed out, beside random 1man with suit, cyberpunk city, raining, neon, ((text bubbles)), 8k, highly detailed, clarity, intense, (((comic book))), ((digital painting)), darker color scheme
+        Negative prompt: lowres, ((bad anatomy)), ((bad hands)), scary, creepy, evil, disfigured, missing limbs, gross, missing fingers, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts)), short hair, ponytail, blue hair
+        Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 2059674536, Face restoration: CodeFormer, Size: 704x704, Model hash: a8f7dcece7, Model: Cyberpunk-Anime-Diffusion
 
