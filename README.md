@@ -13,9 +13,9 @@
 
 <h3>Use these prompts and settings to get the effect in stable diffussion</h3>
 
-        (an anime girl in dgs illustration style, long black hair and red highlights, hair bangs, blue eyes, (wearing open black coat), body suit), zoomed out, beside random 1man with suit, cyberpunk city, raining, neon, ((text bubbles)), 8k, highly detailed, clarity, intense, (((comic book))), ((digital painting)), darker color scheme
-        Negative prompt: lowres, ((bad anatomy)), ((bad hands)), scary, creepy, evil, disfigured, missing limbs, gross, missing fingers, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts)), short hair, ponytail, blue hair
-        Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 2059674536, Face restoration: CodeFormer, Size: 704x704, Model hash: a8f7dcece7, Model: Cyberpunk-Anime-Diffusion
+        (an anime girl in dgs illustration style, long black hair and red highlights, hair bangs, blue eyes, peach colored face, (wearing open black coat), body suit:1.3), zoomed out, (cyberpunk city:1.2), raining, neon, (manga-style, text bubbles, comic panels:1.6), low key, darker color scheme, <lora:epiNoiseoffset_v2:0.7>, 8k, ultra detailed, clarity, intense
+        Negative prompt: bad-artist, bad-image-v2-39000, (bad_prompt_version2:0.8), EasyNegative,  NG_DeepNegative_V1_75T, short hair, pony tail, single image, no panels, extra limbs, comic book, different color eyes
+        Steps: 20, Sampler: DPM++ SDE Karras, CFG scale: 7, Seed: 866203473, Face restoration: CodeFormer, Size: 704x704, Model hash: ab55b3722e, Model: Cyberpunk-Anime-Diffusion
 
 <h2>Example</h2>
 
